@@ -15,7 +15,12 @@ An ASP.NET Core MVC e-commerce application for managing and displaying pie produ
 - SQL Server
 - Razor Views
 ### 🗂 Categories
-![Categories](screenshots/categories.png)
+![Home page & Categories](screenshots/categories.png)
+![Account settings](screenshots/accountsetting.png)
+![cart&ordering](screenshots/ordering.png)
+![Order Form](screenshots/orderform.png)
+![Admin Dashboard adding a pie](screenshots/adding pie.png)
+
 
 ## 🗄 Database Setup
 
